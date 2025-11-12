@@ -1,0 +1,17 @@
+# Ficheros de log
+*.log
+
+# Carpeta de compilación de Maven
+/target/
+
+# Ficheros del IDE (IntelliJ)
+.idea/
+*.iml
+
+# Ficheros del IDE (VS Code)
+.vscode/
+
+# Ficheros del IDE (Eclipse)
+.project
+.classpath
+.settings/

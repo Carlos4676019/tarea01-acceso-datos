@@ -1,0 +1,266 @@
+{
+  "cursos" : {
+    "cursos" : [ {
+      "alumnos" : [ {
+        "apellidos" : "Abellán García",
+        "edad" : 29,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Manuel"
+      }, {
+        "apellidos" : "Alonso Pérez",
+        "edad" : 23,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Lucía"
+      }, {
+        "apellidos" : "Aranda Molina",
+        "edad" : 32,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Javier"
+      }, {
+        "apellidos" : "Ballester Ruiz",
+        "edad" : 21,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Carmen"
+      }, {
+        "apellidos" : "Barrera López",
+        "edad" : 27,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "David"
+      }, {
+        "apellidos" : "Caballero Torres",
+        "edad" : 30,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Ana"
+      }, {
+        "apellidos" : "Cano Fernández",
+        "edad" : 22,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Laura"
+      }, {
+        "apellidos" : "Castillo Serrano",
+        "edad" : 28,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Sergio"
+      }, {
+        "apellidos" : "Díaz Romero",
+        "edad" : 24,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Elena"
+      }, {
+        "apellidos" : "Esteban Ortega",
+        "edad" : 26,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Beatriz"
+      }, {
+        "apellidos" : "García León",
+        "edad" : 20,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Paula"
+      }, {
+        "apellidos" : "Gil Navarro",
+        "edad" : 35,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Andrés"
+      }, {
+        "apellidos" : "Gómez Ríos",
+        "edad" : 19,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Patricia"
+      }, {
+        "apellidos" : "González Vidal",
+        "edad" : 40,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Alberto"
+      }, {
+        "apellidos" : "Ibáñez Moreno",
+        "edad" : 38,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Carlos"
+      }, {
+        "apellidos" : "Lozano Pérez",
+        "edad" : 21,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Irene"
+      }, {
+        "apellidos" : "Martínez Cano",
+        "edad" : 36,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Víctor"
+      }, {
+        "apellidos" : "Molina Sáez",
+        "edad" : 23,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Alba"
+      }, {
+        "apellidos" : "Navarro Ruiz",
+        "edad" : 27,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Daniel"
+      }, {
+        "apellidos" : "Pérez Duarte",
+        "edad" : 41,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Luis"
+      }, {
+        "apellidos" : "Ramírez Torres",
+        "edad" : 24,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Marta"
+      }, {
+        "apellidos" : "Romero Gil",
+        "edad" : 22,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Hugo"
+      }, {
+        "apellidos" : "Sánchez Vera",
+        "edad" : 25,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Claudia"
+      }, {
+        "apellidos" : "Vega Castillo",
+        "edad" : 20,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Nuria"
+      } ],
+      "nombre" : "DAM2"
+    }, {
+      "alumnos" : [ {
+        "apellidos" : "Aguilar Torres",
+        "edad" : 26,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Marcos"
+      }, {
+        "apellidos" : "Alarcón Pérez",
+        "edad" : 23,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Beatriz"
+      }, {
+        "apellidos" : "Alonso García",
+        "edad" : 28,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Sergio"
+      }, {
+        "apellidos" : "Aranda Ruiz",
+        "edad" : 24,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Lucía"
+      }, {
+        "apellidos" : "Barrera Ibáñez",
+        "edad" : 21,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Carmen"
+      }, {
+        "apellidos" : "Caballero Ortega",
+        "edad" : 29,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Andrés"
+      }, {
+        "apellidos" : "Calvo Martínez",
+        "edad" : 22,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Paula"
+      }, {
+        "apellidos" : "Cano Sáez",
+        "edad" : 25,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Adriana"
+      }, {
+        "apellidos" : "Castillo Fernández",
+        "edad" : 20,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Hugo"
+      }, {
+        "apellidos" : "Díaz Navarro",
+        "edad" : 31,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Marta"
+      }, {
+        "apellidos" : "Escudero León",
+        "edad" : 19,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Patricia"
+      }, {
+        "apellidos" : "Fernández Bravo",
+        "edad" : 24,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Irene"
+      }, {
+        "apellidos" : "García Serrano",
+        "edad" : 30,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Alejandro"
+      }, {
+        "apellidos" : "Gil Torres",
+        "edad" : 32,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Laura"
+      }, {
+        "apellidos" : "Gómez Vidal",
+        "edad" : 27,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "David"
+      }, {
+        "apellidos" : "González Duarte",
+        "edad" : 23,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Elena"
+      }, {
+        "apellidos" : "Ibáñez Romero",
+        "edad" : 25,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Claudia"
+      }, {
+        "apellidos" : "Martínez Ríos",
+        "edad" : 20,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Nuria"
+      }, {
+        "apellidos" : "Molina Vega",
+        "edad" : 28,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Alberto"
+      }, {
+        "apellidos" : "Ortega Cruz",
+        "edad" : 26,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Daniel"
+      }, {
+        "apellidos" : "Ramírez Sánchez",
+        "edad" : 37,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Iván"
+      }, {
+        "apellidos" : "Romero García",
+        "edad" : 24,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Lucía"
+      }, {
+        "apellidos" : "Sánchez Molina",
+        "edad" : 41,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Pablo"
+      }, {
+        "apellidos" : "Torres Gil",
+        "edad" : 21,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Ana"
+      }, {
+        "apellidos" : "Valera León",
+        "edad" : 30,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Víctor"
+      }, {
+        "apellidos" : "Vidal Herrera",
+        "edad" : 38,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "José"
+      }, {
+        "apellidos" : "Zapata Gómez",
+        "edad" : 28,
+        "fechaRegistro" : "2025-11-12T16:17:05",
+        "nombre" : "Elena"
+      } ],
+      "nombre" : "DAW1"
+    } ]
+  }
+}

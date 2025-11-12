@@ -1,0 +1,318 @@
+<cursos>
+  <curso>
+    <alumnos>
+      <alumno>
+        <apellidos>Abellán García</apellidos>
+        <edad>29</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Manuel</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Alonso Pérez</apellidos>
+        <edad>23</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Lucía</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Aranda Molina</apellidos>
+        <edad>32</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Javier</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Ballester Ruiz</apellidos>
+        <edad>21</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Carmen</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Barrera López</apellidos>
+        <edad>27</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>David</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Caballero Torres</apellidos>
+        <edad>30</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Ana</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Cano Fernández</apellidos>
+        <edad>22</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Laura</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Castillo Serrano</apellidos>
+        <edad>28</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Sergio</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Díaz Romero</apellidos>
+        <edad>24</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Elena</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Esteban Ortega</apellidos>
+        <edad>26</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Beatriz</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>García León</apellidos>
+        <edad>20</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Paula</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Gil Navarro</apellidos>
+        <edad>35</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Andrés</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Gómez Ríos</apellidos>
+        <edad>19</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Patricia</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>González Vidal</apellidos>
+        <edad>40</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Alberto</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Ibáñez Moreno</apellidos>
+        <edad>38</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Carlos</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Lozano Pérez</apellidos>
+        <edad>21</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Irene</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Martínez Cano</apellidos>
+        <edad>36</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Víctor</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Molina Sáez</apellidos>
+        <edad>23</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Alba</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Navarro Ruiz</apellidos>
+        <edad>27</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Daniel</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Pérez Duarte</apellidos>
+        <edad>41</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Luis</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Ramírez Torres</apellidos>
+        <edad>24</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Marta</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Romero Gil</apellidos>
+        <edad>22</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Hugo</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Sánchez Vera</apellidos>
+        <edad>25</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Claudia</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Vega Castillo</apellidos>
+        <edad>20</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Nuria</nombre>
+      </alumno>
+    </alumnos>
+    <nombre>DAM2</nombre>
+  </curso>
+  <curso>
+    <alumnos>
+      <alumno>
+        <apellidos>Aguilar Torres</apellidos>
+        <edad>26</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Marcos</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Alarcón Pérez</apellidos>
+        <edad>23</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Beatriz</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Alonso García</apellidos>
+        <edad>28</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Sergio</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Aranda Ruiz</apellidos>
+        <edad>24</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Lucía</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Barrera Ibáñez</apellidos>
+        <edad>21</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Carmen</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Caballero Ortega</apellidos>
+        <edad>29</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Andrés</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Calvo Martínez</apellidos>
+        <edad>22</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Paula</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Cano Sáez</apellidos>
+        <edad>25</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Adriana</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Castillo Fernández</apellidos>
+        <edad>20</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Hugo</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Díaz Navarro</apellidos>
+        <edad>31</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Marta</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Escudero León</apellidos>
+        <edad>19</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Patricia</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Fernández Bravo</apellidos>
+        <edad>24</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Irene</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>García Serrano</apellidos>
+        <edad>30</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Alejandro</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Gil Torres</apellidos>
+        <edad>32</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Laura</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Gómez Vidal</apellidos>
+        <edad>27</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>David</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>González Duarte</apellidos>
+        <edad>23</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Elena</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Ibáñez Romero</apellidos>
+        <edad>25</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Claudia</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Martínez Ríos</apellidos>
+        <edad>20</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Nuria</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Molina Vega</apellidos>
+        <edad>28</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Alberto</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Ortega Cruz</apellidos>
+        <edad>26</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Daniel</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Ramírez Sánchez</apellidos>
+        <edad>37</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Iván</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Romero García</apellidos>
+        <edad>24</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Lucía</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Sánchez Molina</apellidos>
+        <edad>41</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Pablo</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Torres Gil</apellidos>
+        <edad>21</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Ana</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Valera León</apellidos>
+        <edad>30</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Víctor</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Vidal Herrera</apellidos>
+        <edad>38</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>José</nombre>
+      </alumno>
+      <alumno>
+        <apellidos>Zapata Gómez</apellidos>
+        <edad>28</edad>
+        <fechaRegistro>2025-11-12T16:17:05</fechaRegistro>
+        <nombre>Elena</nombre>
+      </alumno>
+    </alumnos>
+    <nombre>DAW1</nombre>
+  </curso>
+</cursos>
